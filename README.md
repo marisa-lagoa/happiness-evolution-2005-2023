@@ -3,6 +3,7 @@ Este repositório contém uma análise exploratória em Python com base no World
 
 # Conteúdos do Repositório
 fc75418_codigo.ipynb — Notebook Jupyter com todo o código da análise
+
 fc75418_relatorio.pdf — Relatório completo do projeto
 fc75418_apresentacao.pdf — Apresentação em formato PDF
 data.csv — Dataset Happiness Report 2024 
